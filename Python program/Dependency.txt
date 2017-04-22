@@ -1,0 +1,17 @@
+Keras uses the following dependencies:
+
+numpy, scipy
+yaml
+HDF5 and h5py
+TensorFlow
+
+See more on Keras official documentation:
+https://keras.io/
+
+For window sliding, In additional to Keras,
+
+matplotlib
+https://matplotlib.org/
+
+opencv (cv2)
+http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
